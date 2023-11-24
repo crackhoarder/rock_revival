@@ -1,0 +1,4 @@
+repository "RockRevive@crackhoarder@cloud"
+  path "/"
+    br "/main"
+    co "/main"
